@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "dessertcraft:blocks/mint_stage_6"
+    }
+}

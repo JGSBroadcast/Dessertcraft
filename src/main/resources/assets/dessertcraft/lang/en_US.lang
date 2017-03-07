@@ -1,0 +1,18 @@
+item.cupcake.name=Cupcake
+item.cone.name=Ice Cream Cone
+item.vanilla_icecream.name=Vanilla Ice Cream
+item.chocolate_icecream.name=Chocolate Ice Cream
+item.chocolate_chip.name=Chocolate Chips
+item.mintchip_icecream.name=Mint Chip Ice Cream
+item.uncooked_brownie.name=Uncooked Brownie
+item.brownie.name=Brownie
+item.chocolatechip_icecream.name=Chocolate Chip Ice Cream
+item.plain_popsicle.name=Plain Popsicle
+item.cherry_popsicle.name=Cherry Popsicle
+item.orange_popsicle.name=Orange Popsicle
+item.grape_popsicle.name=Grape Popsicle
+item.bomb_pop.name=Bomb Pop
+item.mint_leaf.name=Mint Leaf
+item.mint_seeds.name=Mint Seeds
+
+tile.mint.name=Mint
