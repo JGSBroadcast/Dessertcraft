@@ -16,3 +16,7 @@ item.mint_leaf.name=Mint Leaf
 item.mint_seeds.name=Mint Seeds
 
 tile.mint.name=Mint
+tile.cookie_jar.name=Cookie Jar
+tile.freezer.name=Freezer
+
+container.freezer=Freezer

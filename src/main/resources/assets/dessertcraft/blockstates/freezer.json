@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "dessertcraft:freezer" },
+        "facing=east": { "model": "dessertcraft:freezer", "y": 90 },
+        "facing=south": { "model": "dessertcraft:freezer", "y": 180 },
+        "facing=west": { "model": "dessertcraft:freezer", "y": 270 }
+    }
+}
